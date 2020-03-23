@@ -1,5 +1,6 @@
-currently most active fork is:
-https://github.com/miho/freerouting
+# This repository has been archived!
+
+Active development is continued here: https://github.com/freerouting/freerouting
 
 # freerouting
 
